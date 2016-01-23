@@ -138,7 +138,7 @@ __Подключение анимации к элементу__ происход
 
 ![График][Кривые распределения анимации величин по времени]
 
-<p data-height="268" data-theme-id="0" data-slug-hash="VejwBw" data-default-tab="result" data-user="pavelpashkovsky" class='codepen'>Посмотреть на CodePen: <a href='http://codepen.io/pavelpashkovsky/pen/VejwBw/'>Форма анимации</a>.</p>
+<p data-height="268" data-theme-id="0" data-slug-hash="GoQvGN" data-default-tab="result" data-user="FMRobot" class='codepen'>Посмотреть на CodePen: <a href='http://codepen.io/FMRobot/pen/GoQvGN/'>Форма анимации</a>.</p>
 
 
 ## Поддержка браузерами
