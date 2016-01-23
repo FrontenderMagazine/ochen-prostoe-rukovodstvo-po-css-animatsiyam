@@ -41,7 +41,7 @@
 
 _Здесь и далее для удобства я написал в примерах несколько строчек JavaScript, которые будут поочередно добавлять или удалять класс с анимацией на элементе, поэтому для воспроизведения анимации просто кликните по этому элементу._
     
-<p data-height="268" data-theme-id="0" data-slug-hash="wMPVmy" data-default-tab="result" data-user="FMRobot" data-preview="true" class='codepen'>Посмотреть на CodePen: <a href='http://codepen.io/FMRobot/pen/wMPVmy/'>Простая анимация</a>.</p>
+<p data-height="268" data-theme-id="0" data-slug-hash="wMPVmy" data-default-tab="result" data-user="FMRobot" class='codepen'>Посмотреть на CodePen: <a href='http://codepen.io/FMRobot/pen/wMPVmy/'>Простая анимация</a>.</p>
     
 __Подключение анимации к элементу__ происходит двумя командами:
 
