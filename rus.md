@@ -41,7 +41,7 @@
 
 _Здесь и далее для удобства я написал в примерах несколько строчек JavaScript, которые будут поочередно добавлять или удалять класс с анимацией на элементе, поэтому для воспроизведения анимации просто кликните по этому элементу._
     
-<p data-height="268" data-theme-id="0" data-slug-hash="wMPVmy" data-default-tab="result" data-user="FMRobot" class='codepen'>Посмотреть на CodePen: <a href='http://codepen.io/FMRobot/pen/wMPVmy/'>Простая анимация</a>.</p>
+<p data-height="268" data-theme-id="0" data-slug-hash="wMPVmy" data-default-tab="result" data-user="FMRobot" class="codepen">Посмотреть на CodePen: <a href="http://codepen.io/FMRobot/pen/wMPVmy/">Простая анимация</a>.</p>
     
 __Подключение анимации к элементу__ происходит двумя командами:
 
@@ -84,7 +84,7 @@ __Подключение анимации к элементу__ происход
 
 ## Количество проигрываний анимации
 
-В качестве значения свойства `animation-iteration-count` выставляем любое положительное значение от 0, 1, 2, 3 ... и т.д. либо `infinite` для бесконечного повторения.
+В качестве значения свойства `animation-iteration-count` выставляем любое положительное значение от 0, 1, 2, 3… и т.д. либо `infinite` для бесконечного повторения.
 
     element {
         animation-name: animation-1;
@@ -104,7 +104,7 @@ __Подключение анимации к элементу__ происход
 
 В примере ниже трём элементам назначена одна и та же анимация, но каждый элемент имеет разные значения `animation-fill-mode`:
 
-<p data-height="268" data-theme-id="0" data-slug-hash="eJeqra" data-default-tab="result" data-user="FMRobot" class='codepen'>Посмотреть на CodePen: <a href='http://codepen.io/FMRobot/pen/eJeqra/'>ДО и ПОСЛЕ анимации</a>.</p>
+<p data-height="268" data-theme-id="0" data-slug-hash="eJeqra" data-default-tab="result" data-user="FMRobot" class="codepen">Посмотреть на CodePen: <a href="http://codepen.io/FMRobot/pen/eJeqra/">ДО и ПОСЛЕ анимации</a>.</p>
 
 
 ## Запуск и остановка анимации
@@ -121,7 +121,7 @@ __Подключение анимации к элементу__ происход
 * `animation-direction: alternate;` — чётные проигрывания анимации будут идти в обратном направлении, а нечётные — в обычном.
 * `animation-direction: alternate-reverse;` — чётные проигрывания вашей анимации будут проигрываться в обычном направлении, а нечётные — в обратном.
 
-<p data-height="268" data-theme-id="0" data-slug-hash="gPXVKG" data-default-tab="result" data-user="FMRobot" class='codepen'>Посмотреть на CodePen: <a href='http://codepen.io/FMRobot/pen/gPXVKG/'>Направление анимации</a>.</p>
+<p data-height="268" data-theme-id="0" data-slug-hash="gPXVKG" data-default-tab="result" data-user="FMRobot" class="codepen">Посмотреть на CodePen: <a href="http://codepen.io/FMRobot/pen/gPXVKG/">Направление анимации</a>.</p>
 
 
 ## Функция распределения анимируемых значений по времени
@@ -138,17 +138,17 @@ __Подключение анимации к элементу__ происход
 
 ![График][Кривые распределения анимации величин по времени]
 
-<p data-height="268" data-theme-id="0" data-slug-hash="GoQvGN" data-default-tab="result" data-user="FMRobot" class='codepen'>Посмотреть на CodePen: <a href='http://codepen.io/FMRobot/pen/GoQvGN/'>Форма анимации</a>.</p>
+<p data-height="268" data-theme-id="0" data-slug-hash="GoQvGN" data-default-tab="result" data-user="FMRobot" class="codepen">Посмотреть на CodePen: <a href="http://codepen.io/FMRobot/pen/GoQvGN/">Форма анимации</a>.</p>
 
 
 ## Поддержка браузерами
 
-CSS-анимации имеют довольно хорошую поддержку, и со временем она будет становится все лучше. Подробно о поддержке анимаций десктопными и мобильными браузерами можно узнать из таблицы по ссылке [http://caniuse.com/#feat=css-animation][1].
+CSS-анимации имеют довольно хорошую поддержку, и со временем она будет становится все лучше. Подробно о поддержке анимаций десктопными и мобильными браузерами можно узнать из [таблицы Can I use][1].
 
 
 ## Материалы для дальнейшего изучения
 
-* [Animate.css][2] — самая знаменитая библиотека css-анимаций.
+* [Animate.css][2] — самая знаменитая библиотека CSS-анимаций.
 * [Effect.css][3] — не менее известная библиотека анимаций.
 * [CSS3 Animation Cheat Sheet][4] — отличная подборка примеров.
 * [Курс CSS3 анимаций на htmlacademy][5] — лучшее место, чтобы освоить анимации на практике. Платно, но очень дешево.
@@ -156,7 +156,7 @@ CSS-анимации имеют довольно хорошую поддержк
 * Обязательно поиграйте с [Bounce.js][7]. Крутейшие и супер-плавные эффекты.
 * [Motion-ui-design][8] — крутая коллекция ссылок по анимациям от [@fliptheweb][9].
 
-На этом всё! Есть несколько мелочей, которые мы не рассмотрели, подробнее о них можно прочесть в приведённых выше материалах. Однако вы должны знать, что и без них вы только что изучили CSS3-анимации примерно на 97.8%. Поздравляю :)
+На этом всё! Есть несколько мелочей, которые мы не рассмотрели, подробнее о них можно прочесть в приведённых выше материалах. Однако вы должны знать, что и без них вы только что изучили CSS3-анимации примерно на 97,8%. Поздравляю :)
 
 
 [1]: http://caniuse.com/#feat=css-animation "Поддержка браузерами"
